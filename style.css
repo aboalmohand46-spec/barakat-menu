@@ -42,3 +42,11 @@ button{
   border-radius:10px;
   font-size:18px;
 }
+.logo{
+    width:180px;
+    max-width:90%;
+    display:block;
+    margin:0 auto 15px;
+    border-radius:20px;
+    box-shadow:0 5px 15px rgba(0,0,0,.3);
+}
